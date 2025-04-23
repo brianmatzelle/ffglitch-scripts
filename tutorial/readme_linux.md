@@ -4,7 +4,7 @@ Set up FFglitch on Linux
 - Either run this one magic command:
 ```
 wget https://ffglitch.org/pub/bin/linux64/ffglitch-0.10.2-linux-x86_64.zip && \
-unzip x ffglitch-0.10.2-linux-x86_64.zip && \
+unzip ffglitch-0.10.2-linux-x86_64.zip && \
 mkdir -p bin && \
 mv ffglitch-0.10.2-linux-x86_64/* bin/ && \
 rmdir ffglitch-0.10.2-linux-x86_64 && \
@@ -18,7 +18,7 @@ wget https://ffglitch.org/pub/bin/linux64/ffglitch-0.10.2-linux-x86_64.zip
 ```
 - Unpack it:
 ```
-unzip x ffglitch-0.10.2-linux-x86_64.zip
+unzip ffglitch-0.10.2-linux-x86_64.zip
 ```
 - Move its contents to a directory named `bin`:
 ```
